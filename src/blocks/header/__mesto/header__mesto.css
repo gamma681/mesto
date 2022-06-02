@@ -1,0 +1,17 @@
+.header__mesto {
+    max-width: 142px;
+    max-height: 33px;
+}
+
+@media (max-width: 920px) {
+    .header__mesto {
+        margin-left: 30px;
+    }
+}
+
+@media (max-width: 520px) {
+    .header__mesto {
+        max-width: 104px;
+        max-height: 24px;
+    }
+}

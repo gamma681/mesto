@@ -1,0 +1,19 @@
+.gallery__like-button {
+    background-image: url('../../../images/Vectorlike.svg');
+    min-width: 21px;
+    min-height: 20px;
+    background-position: center;
+    background-size: 20px 18px;
+    background-repeat: no-repeat;
+    background-color: transparent;
+    border: none;
+    cursor: pointer;
+}
+
+.gallery__like-button:hover {
+    opacity: .5;
+}
+
+.gallery__like-button:focus {
+    outline: none;
+}

@@ -1,0 +1,5 @@
+@media (max-width: 580px) {
+    .popup__container_place {
+      max-width: calc(320px - 40px * 2);
+    }
+  }

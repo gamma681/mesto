@@ -1,0 +1,4 @@
+.popup__picture-wrapper {
+    min-width: calc(320px - 40px * 2);
+    position: relative;
+}

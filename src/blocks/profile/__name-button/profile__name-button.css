@@ -1,0 +1,26 @@
+.profile__name-button {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+  width: 100%;
+}
+
+@media (min-width: 879px) {
+  .profile__name-button {
+    margin-left: 20px;
+  }
+}
+
+@media (max-width: 879px) {
+  .profile__name-button {
+    max-width: 580px;
+  }
+}
+
+@media (max-width: 580px) {
+  .profile__name-button {
+    flex-direction: column;
+    margin: auto;
+  }
+}

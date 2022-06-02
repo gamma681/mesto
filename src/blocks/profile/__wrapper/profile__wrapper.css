@@ -1,0 +1,11 @@
+.profile__wrapper {
+  display: flex;
+  flex-direction: column;
+}
+
+@media (max-width: 580px) {
+  .profile__wrapper {
+    padding-left: 5px;
+    padding-right: 5px;
+  }
+}

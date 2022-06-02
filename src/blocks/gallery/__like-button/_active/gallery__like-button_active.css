@@ -1,0 +1,4 @@
+.gallery__like-button_active {
+    opacity: 1;
+    background-image: url('../../../../images/Union.svg');
+}

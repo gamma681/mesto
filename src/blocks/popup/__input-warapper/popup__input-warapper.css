@@ -1,0 +1,6 @@
+.popup__input-warapper {
+    margin-bottom: 33px;
+    display: flex;
+    flex-direction: column;
+    position: relative;
+}
