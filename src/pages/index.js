@@ -1,5 +1,5 @@
 //styles
-import './index.css';
+
 
 //scripts
 import Api from '../components/Api.js';
